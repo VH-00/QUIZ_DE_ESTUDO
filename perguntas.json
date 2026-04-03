@@ -1,333 +1,554 @@
 [
   {
     "id": 1,
-    "question": "Segundo a Resolução CFP nº 31/2022, a Avaliação Psicológica caracteriza-se como:",
+    "question": "O racionalismo, representado por Descartes, defende que:",
     "options": [
-      { "id": "a", "text": "Um conjunto de técnicas aplicadas exclusivamente em contexto clínico, voltadas à identificação de transtornos mentais específicos." },
-      { "id": "b", "text": "Um processo estruturado de investigação de fenômenos psicológicos, que integra métodos, técnicas e instrumentos para subsidiar decisões." },
-      { "id": "c", "text": "Um procedimento experimental restrito ao ambiente acadêmico, voltado à produção de conhecimento científico." },
-      { "id": "d", "text": "Uma prática baseada predominantemente em observações informais, sem necessidade de sistematização metodológica." }
+      { "id": "a", "text": "Todo conhecimento vem da experiência" },
+      { "id": "b", "text": "O conhecimento é inato e não depende da experiência" },
+      { "id": "c", "text": "O comportamento é moldado pelo ambiente" },
+      { "id": "d", "text": "A aprendizagem ocorre por reforço" }
     ],
     "correctOptionId": "b"
   },
   {
     "id": 2,
-    "question": "A finalidade central da Avaliação Psicológica está relacionada a:",
+    "question": "Segundo o empirismo de John Locke, o ser humano:",
     "options": [
-      { "id": "a", "text": "Produzir diagnósticos médicos definitivos a partir da análise de sintomas psicológicos e comportamentais." },
-      { "id": "b", "text": "Mensurar traços de personalidade com base em instrumentos padronizados e comparáveis estatisticamente." },
-      { "id": "c", "text": "Fornecer subsídios técnicos para tomada de decisão em diferentes contextos e níveis de análise." },
-      { "id": "d", "text": "Estabelecer classificações rígidas de indivíduos com base em critérios exclusivamente quantitativos." }
+      { "id": "a", "text": "Nasce com conhecimento pronto" },
+      { "id": "b", "text": "Aprende apenas por genética" },
+      { "id": "c", "text": "É uma tábula rasa" },
+      { "id": "d", "text": "Não sofre influência do ambiente" }
     ],
     "correctOptionId": "c"
   },
   {
     "id": 3,
-    "question": "A integração de múltiplas fontes de informação na Avaliação Psicológica implica:",
+    "question": "A expressão “tábula rasa” significa que:",
     "options": [
-      { "id": "a", "text": "A utilização exclusiva de testes psicológicos padronizados, garantindo maior precisão estatística dos resultados." },
-      { "id": "b", "text": "A priorização de entrevistas clínicas em detrimento de outros instrumentos considerados menos confiáveis." },
-      { "id": "c", "text": "A combinação de dados provenientes de entrevistas, testes, observações e documentos, articulados de forma coerente." },
-      { "id": "d", "text": "A substituição de instrumentos objetivos por métodos qualitativos, considerados mais abrangentes." }
+      { "id": "a", "text": "O conhecimento é herdado" },
+      { "id": "b", "text": "A mente nasce vazia" },
+      { "id": "c", "text": "A criança nasce com instintos prontos" },
+      { "id": "d", "text": "O comportamento é imutável" }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 4,
+    "question": "Granville Stanley Hall baseava sua teoria em:",
+    "options": [
+      { "id": "a", "text": "Psicanálise" },
+      { "id": "b", "text": "Behaviorismo" },
+      { "id": "c", "text": "Evolução biológica" },
+      { "id": "d", "text": "Cognitivismo" }
     ],
     "correctOptionId": "c"
   },
   {
-    "id": 4,
-    "question": "O caráter dinâmico da Avaliação Psicológica refere-se a:",
-    "options": [
-      { "id": "a", "text": "A possibilidade de adaptação do processo avaliativo conforme as demandas, hipóteses e informações obtidas ao longo da avaliação." },
-      { "id": "b", "text": "A necessidade de aplicação contínua de testes ao longo do tempo, independentemente do objetivo da avaliação." },
-      { "id": "c", "text": "A obrigatoriedade de revisão periódica dos instrumentos utilizados, conforme normas institucionais específicas." },
-      { "id": "d", "text": "A utilização de técnicas exclusivamente qualitativas, em substituição a métodos quantitativos tradicionais." }
-    ],
-    "correctOptionId": "a"
-  },
-  {
     "id": 5,
-    "question": "O planejamento prévio na Avaliação Psicológica tem como principal função:",
+    "question": "O behaviorismo defende que o comportamento é:",
     "options": [
-      { "id": "a", "text": "Reduzir o tempo total do processo avaliativo, tornando-o mais eficiente operacionalmente." },
-      { "id": "b", "text": "Garantir a padronização absoluta das avaliações, independentemente das características do avaliado." },
-      { "id": "c", "text": "Organizar etapas, definir instrumentos e alinhar procedimentos aos objetivos e hipóteses iniciais." },
-      { "id": "d", "text": "Eliminar a necessidade de ajustes durante o processo, assegurando rigidez metodológica completa." }
+      { "id": "a", "text": "Inato" },
+      { "id": "b", "text": "Determinando pelo inconsciente" },
+      { "id": "c", "text": "Resultado de estímulos do ambiente" },
+      { "id": "d", "text": "Independente da experiência" }
     ],
     "correctOptionId": "c"
   },
   {
     "id": 6,
-    "question": "No que se refere aos aspectos éticos da Avaliação Psicológica, é correto afirmar que:",
+    "question": "Segundo John Watson, o desenvolvimento humano depende principalmente de:",
     "options": [
-      { "id": "a", "text": "A divulgação dos resultados pode ser realizada livremente, desde que haja interesse institucional envolvido." },
-      { "id": "b", "text": "O sigilo profissional e o cuidado com materiais restritos constituem princípios fundamentais da prática." },
-      { "id": "c", "text": "Os instrumentos psicológicos podem ser compartilhados com outros profissionais sem restrições legais." },
-      { "id": "d", "text": "A ética é aplicável apenas em contextos clínicos, sendo flexibilizada em outras áreas de atuação." }
+      { "id": "a", "text": "Genética" },
+      { "id": "b", "text": "Ambiente e estímulos" },
+      { "id": "c", "text": "Instintos" },
+      { "id": "d", "text": "Herança biológica" }
     ],
     "correctOptionId": "b"
   },
   {
     "id": 7,
-    "question": "As implicações sociais da Avaliação Psicológica podem envolver:",
+    "question": "O desenvolvimento humano é:",
     "options": [
-      { "id": "a", "text": "Apenas benefícios relacionados ao acesso a serviços especializados de saúde mental." },
-      { "id": "b", "text": "Impactos restritos ao contexto acadêmico e institucional, sem efeitos na vida cotidiana." },
-      { "id": "c", "text": "Consequências emocionais e sociais, incluindo possíveis processos de exclusão ou acesso a direitos." },
-      { "id": "d", "text": "Resultados neutros, sem influência significativa nas relações interpessoais ou sociais." }
+      { "id": "a", "text": "Somente biológico" },
+      { "id": "b", "text": "Somente social" },
+      { "id": "c", "text": "Resultado de múltiplos fatores" },
+      { "id": "d", "text": "Imutável" }
     ],
     "correctOptionId": "c"
   },
   {
     "id": 8,
-    "question": "O embasamento teórico na Avaliação Psicológica é indispensável porque:",
+    "question": "A teoria cognitiva enfatiza:",
     "options": [
-      { "id": "a", "text": "Permite a padronização universal dos resultados, independentemente da abordagem adotada." },
-      { "id": "b", "text": "Substitui a necessidade de instrumentos técnicos, priorizando a interpretação subjetiva." },
-      { "id": "c", "text": "Orienta a escolha dos instrumentos e fundamenta a interpretação dos dados obtidos." },
-      { "id": "d", "text": "Garante que todos os profissionais utilizem os mesmos métodos e técnicas em qualquer contexto." }
+      { "id": "a", "text": "Comportamento observável" },
+      { "id": "b", "text": "Processos mentais" },
+      { "id": "c", "text": "Instintos" },
+      { "id": "d", "text": "Reforços" }
     ],
-    "correctOptionId": "c"
+    "correctOptionId": "b"
   },
   {
     "id": 9,
-    "question": "No contexto histórico da Avaliação Psicológica, Francis Galton destacou-se por:",
+    "question": "Lev Vigotski defendia que o desenvolvimento ocorre por meio:",
     "options": [
-      { "id": "a", "text": "Desenvolver abordagens clínicas voltadas à compreensão do inconsciente humano." },
-      { "id": "b", "text": "Introduzir métodos estatísticos e instrumentos voltados à mensuração de características individuais." },
-      { "id": "c", "text": "Criar teorias cognitivas baseadas na aprendizagem social e no comportamento observável." },
-      { "id": "d", "text": "Fundamentar a psicologia humanista com foco na autorrealização e potencial humano." }
+      { "id": "a", "text": "Somente da biologia" },
+      { "id": "b", "text": "Interação social e cultura" },
+      { "id": "c", "text": "Instintos naturais" },
+      { "id": "d", "text": "Reflexos" }
     ],
     "correctOptionId": "b"
   },
   {
     "id": 10,
-    "question": "Uma das principais críticas aos testes mentais iniciais de Galton refere-se a:",
+    "question": "Funções psicológicas superiores são:",
     "options": [
-      { "id": "a", "text": "A ausência de instrumentos padronizados para mensuração de capacidades cognitivas complexas." },
-      { "id": "b", "text": "A ênfase excessiva em aspectos subjetivos da experiência psicológica." },
-      { "id": "c", "text": "A baixa correlação entre medidas sensoriais e desempenho intelectual significativo." },
-      { "id": "d", "text": "A utilização de métodos qualitativos em detrimento de análises estatísticas rigorosas." }
+      { "id": "a", "text": "Reflexos automáticos" },
+      { "id": "b", "text": "Habilidades inatas" },
+      { "id": "c", "text": "Capacidades desenvolvidas socialmente" },
+      { "id": "d", "text": "Reações instintivas" }
     ],
     "correctOptionId": "c"
   },
 
-  {
-    "id": 11,
-    "question": "James Cattell contribuiu para a Avaliação Psicológica ao:",
-    "options": [
-      { "id": "a", "text": "Desenvolver abordagens clínicas voltadas à subjetividade e à interpretação simbólica." },
-      { "id": "b", "text": "Introduzir o termo testes mentais e aplicar métodos quantitativos no estudo das diferenças individuais." },
-      { "id": "c", "text": "Criar instrumentos baseados exclusivamente em análise qualitativa do comportamento humano." },
-      { "id": "d", "text": "Negar a importância da mensuração no estudo psicológico." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 12,
-    "question": "Uma das conclusões de Cattell sobre seus testes mentais foi:",
-    "options": [
-      { "id": "a", "text": "A forte correlação entre medidas sensoriais e desempenho acadêmico." },
-      { "id": "b", "text": "A superioridade dos testes qualitativos sobre os quantitativos." },
-      { "id": "c", "text": "A limitação dos testes sensório-motores para prever desempenho intelectual." },
-      { "id": "d", "text": "A inutilidade de qualquer tipo de mensuração psicológica." }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 13,
-    "question": "Alfred Binet promoveu uma mudança significativa ao:",
-    "options": [
-      { "id": "a", "text": "Focar na mensuração de aspectos físicos como base da inteligência." },
-      { "id": "b", "text": "Priorizar funções cognitivas como memória, atenção e raciocínio." },
-      { "id": "c", "text": "Abandonar completamente o uso de testes estruturados." },
-      { "id": "d", "text": "Aplicar exclusivamente métodos introspectivos." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 14,
-    "question": "O conceito de idade mental introduzido por Binet refere-se a:",
-    "options": [
-      { "id": "a", "text": "A idade cronológica do indivíduo ajustada por fatores sociais." },
-      { "id": "b", "text": "O nível de desenvolvimento cognitivo comparado ao desempenho médio esperado para determinada idade." },
-      { "id": "c", "text": "A capacidade biológica do cérebro medida por exames médicos." },
-      { "id": "d", "text": "A maturidade emocional observada em contextos sociais." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 15,
-    "question": "O Quociente de Inteligência (QI) é calculado a partir da:",
-    "options": [
-      { "id": "a", "text": "Diferença entre desempenho escolar e idade cronológica." },
-      { "id": "b", "text": "Relação entre idade mental e idade cronológica multiplicada por um fator constante." },
-      { "id": "c", "text": "Soma de habilidades cognitivas avaliadas por diferentes testes." },
-      { "id": "d", "text": "Comparação entre resultados qualitativos e quantitativos." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 16,
-    "question": "Os testes Army Alpha e Army Beta foram desenvolvidos com o objetivo de:",
-    "options": [
-      { "id": "a", "text": "Avaliar exclusivamente aspectos emocionais de soldados." },
-      { "id": "b", "text": "Mensurar inteligência em larga escala no contexto militar." },
-      { "id": "c", "text": "Substituir completamente os testes de Binet." },
-      { "id": "d", "text": "Aplicar avaliações clínicas individualizadas." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 17,
-    "question": "No Brasil, o início da Avaliação Psicológica está associado a:",
-    "options": [
-      { "id": "a", "text": "Laboratórios voltados à aprendizagem e ao contexto educacional." },
-      { "id": "b", "text": "Instituições médicas voltadas exclusivamente à psiquiatria." },
-      { "id": "c", "text": "Empresas privadas focadas em seleção industrial." },
-      { "id": "d", "text": "Centros religiosos voltados à orientação moral." }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 18,
-    "question": "A adaptação do teste Binet-Simon no Brasil ocorreu em:",
-    "options": [
-      { "id": "a", "text": "1890" },
-      { "id": "b", "text": "1924" },
-      { "id": "c", "text": "1933" },
-      { "id": "d", "text": "1962" }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 19,
-    "question": "O Teste ABC de Prontidão Escolar tinha como foco principal:",
-    "options": [
-      { "id": "a", "text": "Avaliar exclusivamente inteligência geral." },
-      { "id": "b", "text": "Mensurar habilidades múltiplas relacionadas ao desempenho escolar." },
-      { "id": "c", "text": "Analisar apenas aspectos emocionais da criança." },
-      { "id": "d", "text": "Classificar alunos por nível socioeconômico." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 20,
-    "question": "A Lei nº 4.119 de 1962 no Brasil estabeleceu:",
-    "options": [
-      { "id": "a", "text": "A obrigatoriedade de testes em escolas públicas." },
-      { "id": "b", "text": "A regulamentação da profissão de psicólogo e o uso privativo de testes." },
-      { "id": "c", "text": "A criação de universidades específicas de psicologia." },
-      { "id": "d", "text": "A proibição do uso de testes psicológicos." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 21,
-    "question": "A crise dos testes psicológicos no Brasil (1970-1990) foi marcada por:",
-    "options": [
-      { "id": "a", "text": "Expansão irrestrita do uso de testes sem críticas." },
-      { "id": "b", "text": "Críticas quanto à validade, normas e origem dos instrumentos." },
-      { "id": "c", "text": "Substituição total dos testes por entrevistas." },
-      { "id": "d", "text": "Validação internacional de todos os instrumentos brasileiros." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 22,
-    "question": "A criação do IBAP teve como finalidade:",
-    "options": [
-      { "id": "a", "text": "Eliminar o uso de testes psicológicos no Brasil." },
-      { "id": "b", "text": "Organizar e fomentar o desenvolvimento científico da Avaliação Psicológica." },
-      { "id": "c", "text": "Substituir o CFP na regulamentação profissional." },
-      { "id": "d", "text": "Centralizar apenas atividades clínicas." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 23,
-    "question": "O SATEPSI foi criado com o objetivo de:",
-    "options": [
-      { "id": "a", "text": "Avaliar a formação acadêmica dos psicólogos." },
-      { "id": "b", "text": "Regulamentar e avaliar a qualidade dos testes psicológicos no Brasil." },
-      { "id": "c", "text": "Substituir os testes internacionais por nacionais." },
-      { "id": "d", "text": "Promover apenas pesquisas acadêmicas." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 24,
-    "question": "A Avaliação Psicológica tornou-se especialidade reconhecida no Brasil em:",
-    "options": [
-      { "id": "a", "text": "2003" },
-      { "id": "b", "text": "2011" },
-      { "id": "c", "text": "2019" },
-      { "id": "d", "text": "1990" }
-    ],
-    "correctOptionId": "c"
-  },
-  {
-    "id": 25,
-    "question": "Os instrumentos complementares na Avaliação Psicológica incluem:",
-    "options": [
-      { "id": "a", "text": "Apenas testes aprovados pelo CFP." },
-      { "id": "b", "text": "Relatórios multiprofissionais e técnicas não psicológicas." },
-      { "id": "c", "text": "Somente entrevistas clínicas." },
-      { "id": "d", "text": "Exclusivamente observações livres." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 26,
-    "question": "O contexto biopsicossocial na avaliação implica considerar:",
-    "options": [
-      { "id": "a", "text": "Somente fatores biológicos." },
-      { "id": "b", "text": "Aspectos biológicos, psicológicos e sociais de forma integrada." },
-      { "id": "c", "text": "Apenas o ambiente social do indivíduo." },
-      { "id": "d", "text": "Exclusivamente fatores internos." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 27,
-    "question": "A obrigatoriedade de documentos psicológicos está relacionada a:",
-    "options": [
-      { "id": "a", "text": "Organização administrativa interna apenas." },
-      { "id": "b", "text": "Exigências éticas e legais da prática profissional." },
-      { "id": "c", "text": "Preferência do profissional." },
-      { "id": "d", "text": "Demandas institucionais informais." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 28,
-    "question": "A interpretação dos resultados na Avaliação Psicológica deve:",
-    "options": [
-      { "id": "a", "text": "Ser baseada exclusivamente em dados estatísticos." },
-      { "id": "b", "text": "Considerar o embasamento teórico e o contexto do avaliado." },
-      { "id": "c", "text": "Ignorar variáveis externas." },
-      { "id": "d", "text": "Ser padronizada para todos os casos." }
-    ],
-    "correctOptionId": "b"
-  },
-  {
-    "id": 29,
-    "question": "A utilização de entrevistas na Avaliação Psicológica permite:",
-    "options": [
-      { "id": "a", "text": "Coletar dados qualitativos relevantes para compreensão do indivíduo." },
-      { "id": "b", "text": "Substituir todos os outros instrumentos." },
-      { "id": "c", "text": "Eliminar a necessidade de testes." },
-      { "id": "d", "text": "Padronizar completamente os resultados." }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 30,
-    "question": "A Avaliação Psicológica contemporânea no Brasil caracteriza-se por:",
-    "options": [
-      { "id": "a", "text": "Ausência de regulamentação formal." },
-      { "id": "b", "text": "Consolidação da área com base ética, técnica e legal." },
-      { "id": "c", "text": "Uso irrestrito de qualquer instrumento." },
-      { "id": "d", "text": "Foco exclusivo na prática clínica." }
-    ],
-    "correctOptionId": "b"
-  }
+{
+  "id": 11,
+  "question": "O desenvolvimento humano se inicia:",
+  "options": [
+    { "id": "a", "text": "No nascimento" },
+    { "id": "b", "text": "Na infância" },
+    { "id": "c", "text": "Na fecundação" },
+    { "id": "d", "text": "Na adolescência" }
+  ],
+  "correctOptionId": "c"
+},
+{
+  "id": 12,
+  "question": "A gestação humana dura em média:",
+  "options": [
+    { "id": "a", "text": "30 semanas" },
+    { "id": "b", "text": "35 semanas" },
+    { "id": "c", "text": "40 semanas" },
+    { "id": "d", "text": "50 semanas" }
+  ],
+  "correctOptionId": "c"
+},
+{
+  "id": 13,
+  "question": "Um bebê é considerado pré-termo quando nasce:",
+  "options": [
+    { "id": "a", "text": "Após 42 semanas" },
+    { "id": "b", "text": "Antes de 37 semanas" },
+    { "id": "c", "text": "Após 40 semanas" },
+    { "id": "d", "text": "Com baixo peso apenas" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 14,
+  "question": "O período neonatal corresponde:",
+  "options": [
+    { "id": "a", "text": "Da gestação ao parto" },
+    { "id": "b", "text": "Do nascimento até 4 semanas" },
+    { "id": "c", "text": "Até 1 ano de idade" },
+    { "id": "d", "text": "Até 6 meses" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 15,
+  "question": "O princípio cefalocaudal refere-se ao desenvolvimento:",
+  "options": [
+    { "id": "a", "text": "Dos pés para a cabeça" },
+    { "id": "b", "text": "Do centro para as extremidades" },
+    { "id": "c", "text": "Da cabeça para os pés" },
+    { "id": "d", "text": "Aleatório" }
+  ],
+  "correctOptionId": "c"
+},
+{
+  "id": 16,
+  "question": "O princípio próximo-distal refere-se ao desenvolvimento:",
+  "options": [
+    { "id": "a", "text": "Da cabeça aos pés" },
+    { "id": "b", "text": "Do centro para as extremidades" },
+    { "id": "c", "text": "Das extremidades ao centro" },
+    { "id": "d", "text": "Somente motor" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 17,
+  "question": "Na primeira infância, destaca-se:",
+  "options": [
+    { "id": "a", "text": "Estagnação cognitiva" },
+    { "id": "b", "text": "Desenvolvimento intenso" },
+    { "id": "c", "text": "Ausência de linguagem" },
+    { "id": "d", "text": "Falta de interação social" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 18,
+  "question": "A linguagem permite à criança:",
+  "options": [
+    { "id": "a", "text": "Parar de aprender" },
+    { "id": "b", "text": "Se comunicar e compreender o mundo" },
+    { "id": "c", "text": "Ignorar o ambiente" },
+    { "id": "d", "text": "Evitar interações" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 19,
+  "question": "A imitação é importante porque:",
+  "options": [
+    { "id": "a", "text": "Limita o aprendizado" },
+    { "id": "b", "text": "Permite aprender com outros" },
+    { "id": "c", "text": "Substitui a linguagem" },
+    { "id": "d", "text": "Impede o desenvolvimento" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 20,
+  "question": "A permanência do objeto significa:",
+  "options": [
+    { "id": "a", "text": "Objetos desaparecem ao sair da visão" },
+    { "id": "b", "text": "Objetos continuam existindo mesmo sem serem vistos" },
+    { "id": "c", "text": "Objetos não existem" },
+    { "id": "d", "text": "Objetos são imaginários" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 21,
+  "question": "Jean Piaget nasceu:",
+  "options": [
+    { "id": "a", "text": "Na França" },
+    { "id": "b", "text": "Na Alemanha" },
+    { "id": "c", "text": "Na Suíça" },
+    { "id": "d", "text": "Na Itália" }
+  ],
+  "correctOptionId": "c"
+},
+{
+  "id": 22,
+  "question": "Piaget iniciou seus estudos na área de:",
+  "options": [
+    { "id": "a", "text": "Psicologia clínica" },
+    { "id": "b", "text": "Biologia" },
+    { "id": "c", "text": "Filosofia" },
+    { "id": "d", "text": "Sociologia" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 23,
+  "question": "Epistemologia genética significa:",
+  "options": [
+    { "id": "a", "text": "Estudo do comportamento" },
+    { "id": "b", "text": "Estudo da origem do conhecimento" },
+    { "id": "c", "text": "Estudo da genética humana" },
+    { "id": "d", "text": "Estudo da linguagem" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 24,
+  "question": "Piaget estudava crianças por meio de:",
+  "options": [
+    { "id": "a", "text": "Testes padronizados apenas" },
+    { "id": "b", "text": "Observação e perguntas" },
+    { "id": "c", "text": "Experimentos laboratoriais apenas" },
+    { "id": "d", "text": "Entrevistas com adultos" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 25,
+  "question": "Piaget não concordava com:",
+  "options": [
+    { "id": "a", "text": "Observação" },
+    { "id": "b", "text": "Testes padronizados" },
+    { "id": "c", "text": "Pesquisa científica" },
+    { "id": "d", "text": "Estudo infantil" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 26,
+  "question": "A assimilação é:",
+  "options": [
+    { "id": "a", "text": "Mudança total do pensamento" },
+    { "id": "b", "text": "Incorporação de novas informações" },
+    { "id": "c", "text": "Perda de conhecimento" },
+    { "id": "d", "text": "Rejeição de ideias" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 27,
+  "question": "A acomodação é:",
+  "options": [
+    { "id": "a", "text": "Manter ideias antigas" },
+    { "id": "b", "text": "Ignorar informações novas" },
+    { "id": "c", "text": "Modificar estruturas mentais" },
+    { "id": "d", "text": "Repetir comportamentos" }
+  ],
+  "correctOptionId": "c"
+},
+{
+  "id": 28,
+  "question": "O equilíbrio cognitivo ocorre quando:",
+  "options": [
+    { "id": "a", "text": "Não há aprendizagem" },
+    { "id": "b", "text": "Há adaptação entre assimilação e acomodação" },
+    { "id": "c", "text": "O indivíduo para de pensar" },
+    { "id": "d", "text": "Há conflito constante" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 29,
+  "question": "Os filhos de Piaget contribuíram para:",
+  "options": [
+    { "id": "a", "text": "Sua vida pessoal apenas" },
+    { "id": "b", "text": "Seus estudos científicos" },
+    { "id": "c", "text": "Sua carreira política" },
+    { "id": "d", "text": "Seus negócios" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 30,
+  "question": "Segundo Piaget, o desenvolvimento ocorre:",
+  "options": [
+    { "id": "a", "text": "De forma contínua apenas" },
+    { "id": "b", "text": "Com rupturas e estágios" },
+    { "id": "c", "text": "Sem mudanças" },
+    { "id": "d", "text": "Aleatoriamente" }
+  ],
+  "correctOptionId": "b"
+},
+
+{
+  "id": 31,
+  "question": "O estágio sensório-motor ocorre aproximadamente:",
+  "options": [
+    { "id": "a", "text": "Dos 2 aos 7 anos" },
+    { "id": "b", "text": "Dos 0 aos 2 anos" },
+    { "id": "c", "text": "Dos 7 aos 12 anos" },
+    { "id": "d", "text": "Após os 12 anos" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 32,
+  "question": "No estágio sensório-motor, a criança aprende por meio de:",
+  "options": [
+    { "id": "a", "text": "Leitura" },
+    { "id": "b", "text": "Interação sensorial e motora" },
+    { "id": "c", "text": "Raciocínio lógico" },
+    { "id": "d", "text": "Debates" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 33,
+  "question": "O estágio pré-operatório é marcado por:",
+  "options": [
+    { "id": "a", "text": "Pensamento lógico" },
+    { "id": "b", "text": "Egocentrismo" },
+    { "id": "c", "text": "Raciocínio científico" },
+    { "id": "d", "text": "Pensamento abstrato" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 34,
+  "question": "Egocentrismo infantil significa:",
+  "options": [
+    { "id": "a", "text": "Egoísmo" },
+    { "id": "b", "text": "Dificuldade de ver o ponto de vista do outro" },
+    { "id": "c", "text": "Falta de inteligência" },
+    { "id": "d", "text": "Desinteresse social" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 35,
+  "question": "No estágio operatório concreto, a criança desenvolve:",
+  "options": [
+    { "id": "a", "text": "Pensamento mágico" },
+    { "id": "b", "text": "Pensamento lógico concreto" },
+    { "id": "c", "text": "Pensamento abstrato avançado" },
+    { "id": "d", "text": "Falta de raciocínio" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 36,
+  "question": "A conservação é a capacidade de:",
+  "options": [
+    { "id": "a", "text": "Guardar objetos" },
+    { "id": "b", "text": "Entender que quantidade não muda" },
+    { "id": "c", "text": "Esquecer informações" },
+    { "id": "d", "text": "Criar histórias" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 37,
+  "question": "O estágio operatório formal é caracterizado por:",
+  "options": [
+    { "id": "a", "text": "Pensamento concreto apenas" },
+    { "id": "b", "text": "Pensamento abstrato" },
+    { "id": "c", "text": "Ausência de lógica" },
+    { "id": "d", "text": "Reflexos" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 38,
+  "question": "O pensamento hipotético-dedutivo surge no estágio:",
+  "options": [
+    { "id": "a", "text": "Sensório-motor" },
+    { "id": "b", "text": "Pré-operatório" },
+    { "id": "c", "text": "Operatório concreto" },
+    { "id": "d", "text": "Operatório formal" }
+  ],
+  "correctOptionId": "d"
+},
+{
+  "id": 39,
+  "question": "O jogo de exercício ocorre principalmente:",
+  "options": [
+    { "id": "a", "text": "Na adolescência" },
+    { "id": "b", "text": "Na fase sensório-motora" },
+    { "id": "c", "text": "Na fase adulta" },
+    { "id": "d", "text": "Na velhice" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 40,
+  "question": "O jogo simbólico envolve:",
+  "options": [
+    { "id": "a", "text": "Regras rígidas" },
+    { "id": "b", "text": "Imaginação e faz de conta" },
+    { "id": "c", "text": "Competição" },
+    { "id": "d", "text": "Lógica matemática" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 41,
+  "question": "Jogos de regras aparecem mais frequentemente:",
+  "options": [
+    { "id": "a", "text": "Na primeira infância" },
+    { "id": "b", "text": "Na fase escolar" },
+    { "id": "c", "text": "No nascimento" },
+    { "id": "d", "text": "Na fase adulta apenas" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 42,
+  "question": "Os jogos ajudam no desenvolvimento:",
+  "options": [
+    { "id": "a", "text": "Apenas físico" },
+    { "id": "b", "text": "Cognitivo, social e emocional" },
+    { "id": "c", "text": "Apenas emocional" },
+    { "id": "d", "text": "Apenas social" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 43,
+  "question": "Segundo Piaget, o jogo é:",
+  "options": [
+    { "id": "a", "text": "Irrelevante" },
+    { "id": "b", "text": "Fundamental para o desenvolvimento" },
+    { "id": "c", "text": "Apenas recreação" },
+    { "id": "d", "text": "Sem valor educativo" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 44,
+  "question": "A moral heterônoma é caracterizada por:",
+  "options": [
+    { "id": "a", "text": "Autonomia total" },
+    { "id": "b", "text": "Obediência às regras impostas" },
+    { "id": "c", "text": "Criação de regras próprias" },
+    { "id": "d", "text": "Independência moral" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 45,
+  "question": "A moral autônoma envolve:",
+  "options": [
+    { "id": "a", "text": "Obediência cega" },
+    { "id": "b", "text": "Compreensão e cooperação" },
+    { "id": "c", "text": "Falta de regras" },
+    { "id": "d", "text": "Dependência total" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 46,
+  "question": "A transição da moral heterônoma para autônoma ocorre:",
+  "options": [
+    { "id": "a", "text": "Sem interação social" },
+    { "id": "b", "text": "Por meio da cooperação" },
+    { "id": "c", "text": "Por imposição" },
+    { "id": "d", "text": "Por punição" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 47,
+  "question": "O desenvolvimento moral depende de:",
+  "options": [
+    { "id": "a", "text": "Somente genética" },
+    { "id": "b", "text": "Interações sociais" },
+    { "id": "c", "text": "Apenas punições" },
+    { "id": "d", "text": "Isolamento" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 48,
+  "question": "Para Piaget, regras são:",
+  "options": [
+    { "id": "a", "text": "Imutáveis sempre" },
+    { "id": "b", "text": "Construídas socialmente" },
+    { "id": "c", "text": "Inexistentes" },
+    { "id": "d", "text": "Individuais apenas" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 49,
+  "question": "O respeito mútuo está ligado à:",
+  "options": [
+    { "id": "a", "text": "Moral heterônoma" },
+    { "id": "b", "text": "Moral autônoma" },
+    { "id": "c", "text": "Falta de regras" },
+    { "id": "d", "text": "Punição" }
+  ],
+  "correctOptionId": "b"
+},
+{
+  "id": 50,
+  "question": "A teoria de Piaget contribui principalmente para:",
+  "options": [
+    { "id": "a", "text": "Educação e psicologia" },
+    { "id": "b", "text": "Engenharia" },
+    { "id": "c", "text": "Medicina apenas" },
+    { "id": "d", "text": "Economia" }
+  ],
+  "correctOptionId": "a"
+}
 ]
