@@ -1,270 +1,551 @@
-[{
-    "id": 61,
-    "question": "A medula espinhal faz parte do sistema nervoso central e está localizada no interior do canal vertebral.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
+[
   {
-    "id": 62,
-    "question": "A raiz anterior dos nervos espinhais é responsável pela condução de estímulos sensoriais.",
+    "id": 1,
+    "question": "O cerebelo, no contexto do sistema nervoso central, pode ser definido como:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Uma estrutura periférica responsável pela condução de impulsos motores voluntários." },
+      { "id": "b", "text": "Uma região encefálica associada à coordenação motora, equilíbrio e aprendizagem de movimentos." },
+      { "id": "c", "text": "Um conjunto de núcleos autônomos responsáveis por funções viscerais." },
+      { "id": "d", "text": "Uma área exclusivamente sensorial sem participação motora." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 63,
-    "question": "O arco reflexo é uma resposta rápida e involuntária a um estímulo.",
+    "id": 2,
+    "question": "A localização anatômica do cerebelo é corretamente descrita como:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 64,
-    "question": "O cerebelo é responsável principalmente por funções cognitivas superiores como linguagem e memória.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Anterior ao tronco encefálico e superior ao lobo frontal." },
+      { "id": "b", "text": "Posterior ao tronco encefálico e inferior ao lobo occipital." },
+      { "id": "c", "text": "Na base do diencéfalo, próximo ao tálamo." },
+      { "id": "d", "text": "No interior dos ventrículos laterais." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 65,
-    "question": "O espaço subaracnóideo contém líquido cefalorraquidiano.",
+    "id": 3,
+    "question": "A divisão estrutural do cerebelo em hemisférios implica:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 66,
-    "question": "A Avaliação Psicológica envolve apenas a aplicação de testes padronizados.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Separação completa sem conexão funcional entre as partes." },
+      { "id": "b", "text": "Organização bilateral unida por uma estrutura central denominada vérmis." },
+      { "id": "c", "text": "Divisão apenas funcional sem base anatômica." },
+      { "id": "d", "text": "Segmentação exclusiva para controle sensorial." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 67,
-    "question": "O SATEPSI é responsável por avaliar a qualidade dos testes psicológicos no Brasil.",
+    "id": 4,
+    "question": "Os lobos cerebelares são classificados como:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 68,
-    "question": "A idade mental é independente do desempenho em testes cognitivos.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Frontal, parietal e temporal." },
+      { "id": "b", "text": "Anterior, posterior e flóculo-nodular." },
+      { "id": "c", "text": "Superior, médio e inferior." },
+      { "id": "d", "text": "Central, lateral e medial." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 69,
-    "question": "A ataxia está associada à perda de coordenação motora.",
+    "id": 5,
+    "question": "O vérmis cerebelar possui como principal característica:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 70,
-    "question": "A avaliação psicológica não possui implicações sociais relevantes.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Separar os hemisférios cerebrais." },
+      { "id": "b", "text": "Unir os hemisférios cerebelares na região mediana." },
+      { "id": "c", "text": "Controlar funções endócrinas." },
+      { "id": "d", "text": "Regular impulsos sensoriais periféricos." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 71,
-    "question": "A medula espinhal estende-se desde o forame magno até aproximadamente a região lombar (L1-L2).",
+    "id": 6,
+    "question": "O suprimento sanguíneo do cerebelo é realizado por:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 72,
-    "question": "O filum terminale tem como função principal ancorar a medula espinhal à coluna vertebral.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 73,
-    "question": "A aracnoide é a camada meníngea mais externa e resistente que envolve a medula espinhal.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Artérias cerebrais anterior e média." },
+      { "id": "b", "text": "Artérias cerebelares superior, anterior inferior e posterior inferior." },
+      { "id": "c", "text": "Artérias carótidas internas exclusivamente." },
+      { "id": "d", "text": "Capilares difusos sem organização arterial específica." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 74,
-    "question": "O espaço epidural contém líquido cefalorraquidiano em grande quantidade.",
+    "id": 7,
+    "question": "Os pedúnculos cerebelares têm como função principal:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Separar os lobos cerebelares estruturalmente." },
+      { "id": "b", "text": "Conectar o cerebelo ao tronco encefálico." },
+      { "id": "c", "text": "Regular a pressão intracraniana." },
+      { "id": "d", "text": "Controlar a produção de líquor." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 75,
-    "question": "Os reflexos podem ser utilizados clinicamente para identificar possíveis lesões no sistema nervoso.",
+    "id": 8,
+    "question": "O pedúnculo cerebelar inferior estabelece conexão entre o cerebelo e:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 76,
-    "question": "O cerebelo é a menor estrutura do encéfalo e não possui subdivisões anatômicas relevantes.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Mesencéfalo exclusivamente." },
+      { "id": "b", "text": "Bulbo e medula espinhal." },
+      { "id": "c", "text": "Córtex cerebral." },
+      { "id": "d", "text": "Sistema límbico." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 77,
-    "question": "Os hemisférios cerebelares são unidos por uma estrutura central denominada vérmis.",
+    "id": 9,
+    "question": "Os sulcos cerebelares têm como função:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 78,
-    "question": "A dismetria refere-se à incapacidade de manter o equilíbrio em posição ortostática.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Produzir líquido cefalorraquidiano." },
+      { "id": "b", "text": "Delimitar lâminas e organizar a superfície do cerebelo." },
+      { "id": "c", "text": "Separar completamente os hemisférios." },
+      { "id": "d", "text": "Controlar impulsos motores." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 79,
-    "question": "A Avaliação Psicológica deve considerar múltiplas fontes de informação e não apenas testes psicológicos.",
+    "id": 10,
+    "question": "O córtex cerebelar é caracterizado por:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 80,
-    "question": "O embasamento teórico não influencia a interpretação dos resultados na Avaliação Psicológica.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Ser composto exclusivamente por substância branca." },
+      { "id": "b", "text": "Revestir as lâminas cerebelares com substância cinzenta." },
+      { "id": "c", "text": "Ser uma estrutura exclusivamente vascular." },
+      { "id": "d", "text": "Estar ausente nos hemisférios cerebelares." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 111,
-    "question": "A medula espinhal está localizada dentro do canal vertebral e faz parte do sistema nervoso central.",
+    "id": 11,
+    "question": "Os núcleos do cerebelo são constituídos por:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 112,
-    "question": "A raiz anterior dos nervos espinhais possui função sensitiva.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Substância branca responsável pela condução de impulsos." },
+      { "id": "b", "text": "Substância cinzenta localizada no interior do cerebelo." },
+      { "id": "c", "text": "Estruturas exclusivamente vasculares." },
+      { "id": "d", "text": "Extensões diretas do córtex cerebral." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 113,
-    "question": "O cerebelo está envolvido na aprendizagem motora e no ajuste fino dos movimentos.",
+    "id": 12,
+    "question": "A função do cerebelo na manutenção do equilíbrio está relacionada:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
-    ],
-    "correctOptionId": "a"
-  },
-  {
-    "id": 114,
-    "question": "O espaço subaracnóideo não contém líquido cefalorraquidiano.",
-    "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "À produção hormonal que regula o sistema vestibular." },
+      { "id": "b", "text": "À integração de informações sensoriais e ajuste da atividade motora." },
+      { "id": "c", "text": "Ao controle direto dos órgãos viscerais." },
+      { "id": "d", "text": "À atividade exclusiva do córtex cerebral." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 115,
-    "question": "A ataxia é caracterizada pela perda de coordenação motora.",
+    "id": 13,
+    "question": "O controle do tônus muscular pelo cerebelo implica:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Regulação indireta da contração muscular para manter postura adequada." },
+      { "id": "b", "text": "Contração muscular constante sem variações." },
+      { "id": "c", "text": "Ação exclusiva do sistema nervoso periférico." },
+      { "id": "d", "text": "Independência total de estímulos sensoriais." }
     ],
     "correctOptionId": "a"
   },
   {
-    "id": 116,
-    "question": "Os nervos espinhais são formados exclusivamente por fibras motoras.",
+    "id": 14,
+    "question": "O planejamento e correção do movimento dependem do cerebelo porque:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Ele gera impulsos motores primários independentes do córtex." },
+      { "id": "b", "text": "Ele compara o movimento executado com o planejado, ajustando sua precisão." },
+      { "id": "c", "text": "Ele atua apenas após o término do movimento." },
+      { "id": "d", "text": "Ele controla exclusivamente reflexos simples." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 117,
-    "question": "O cerebelo está localizado anteriormente ao tronco encefálico.",
+    "id": 15,
+    "question": "A aprendizagem motora está associada ao cerebelo devido:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "À capacidade de armazenar padrões de movimento e melhorar sua execução." },
+      { "id": "b", "text": "À produção de neurotransmissores exclusivos." },
+      { "id": "c", "text": "À regulação hormonal do organismo." },
+      { "id": "d", "text": "À independência de outras estruturas encefálicas." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 16,
+    "question": "As funções cognitivas do cerebelo incluem:",
+    "options": [
+      { "id": "a", "text": "Controle exclusivo da linguagem." },
+      { "id": "b", "text": "Mudanças rápidas de atenção e processamento de informações." },
+      { "id": "c", "text": "Produção de memória de longo prazo." },
+      { "id": "d", "text": "Controle emocional primário." }
     ],
     "correctOptionId": "b"
   },
   {
-    "id": 118,
-    "question": "O cone medular corresponde à extremidade inferior da medula espinhal.",
+    "id": 17,
+    "question": "A ataxia é caracterizada por:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Aumento do tônus muscular." },
+      { "id": "b", "text": "Perda de coordenação dos movimentos voluntários." },
+      { "id": "c", "text": "Excesso de reflexos automáticos." },
+      { "id": "d", "text": "Rigidez muscular contínua." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 18,
+    "question": "A ataxia cerebelar ocorre devido a:",
+    "options": [
+      { "id": "a", "text": "Alterações hormonais sistêmicas." },
+      { "id": "b", "text": "Danos às vias cerebelares responsáveis pela coordenação." },
+      { "id": "c", "text": "Lesões exclusivamente periféricas." },
+      { "id": "d", "text": "Disfunções cardíacas." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 19,
+    "question": "A ataxia vestibular está associada a:",
+    "options": [
+      { "id": "a", "text": "Perda de propriocepção." },
+      { "id": "b", "text": "Danos na via vestíbulo-ponto-cerebelar." },
+      { "id": "c", "text": "Déficits musculares isolados." },
+      { "id": "d", "text": "Alterações cognitivas superiores." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 20,
+    "question": "A ataxia sensorial está relacionada a:",
+    "options": [
+      { "id": "a", "text": "Danos às vias aferentes responsáveis pela propriocepção." },
+      { "id": "b", "text": "Lesões no córtex frontal." },
+      { "id": "c", "text": "Alterações no sistema endócrino." },
+      { "id": "d", "text": "Disfunções cardiovasculares." }
     ],
     "correctOptionId": "a"
   },
   {
-    "id": 119,
-    "question": "A pia-máter é a camada mais interna das meninges e está aderida à medula espinhal.",
+    "id": 21,
+    "question": "A disdiadococinesia refere-se a:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Dificuldade em manter equilíbrio estático." },
+      { "id": "b", "text": "Incapacidade de realizar movimentos alternados rápidos." },
+      { "id": "c", "text": "Alteração na fala." },
+      { "id": "d", "text": "Rigidez muscular." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 22,
+    "question": "A dismetria caracteriza-se por:",
+    "options": [
+      { "id": "a", "text": "Erro na amplitude dos movimentos." },
+      { "id": "b", "text": "Dificuldade na fala." },
+      { "id": "c", "text": "Perda de equilíbrio." },
+      { "id": "d", "text": "Fraqueza muscular." }
     ],
     "correctOptionId": "a"
   },
   {
-    "id": 120,
-    "question": "Os pedúnculos cerebelares não possuem função de conexão com outras estruturas encefálicas.",
+    "id": 23,
+    "question": "A distasia refere-se a:",
     "options": [
-      { "id": "a", "text": "Verdadeiro" },
-      { "id": "b", "text": "Falso" }
+      { "id": "a", "text": "Dificuldade de coordenação dos membros." },
+      { "id": "b", "text": "Dificuldade de se manter em pé." },
+      { "id": "c", "text": "Alteração na fala." },
+      { "id": "d", "text": "Perda de sensibilidade." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 24,
+    "question": "A disbasia caracteriza-se por:",
+    "options": [
+      { "id": "a", "text": "Dificuldade de marcha devido à falta de coordenação." },
+      { "id": "b", "text": "Perda de memória." },
+      { "id": "c", "text": "Alteração sensorial." },
+      { "id": "d", "text": "Rigidez muscular." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 25,
+    "question": "A disartria refere-se a:",
+    "options": [
+      { "id": "a", "text": "Dificuldade na articulação da fala." },
+      { "id": "b", "text": "Perda de equilíbrio." },
+      { "id": "c", "text": "Alteração visual." },
+      { "id": "d", "text": "Fraqueza muscular periférica." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 26,
+    "question": "O cerebelo é considerado a segunda maior estrutura do encéfalo devido:",
+    "options": [
+      { "id": "a", "text": "À sua predominância em substância branca comparada ao cérebro." },
+      { "id": "b", "text": "Ao seu volume relativo inferior apenas ao cérebro dentro do encéfalo." },
+      { "id": "c", "text": "À sua localização central no sistema nervoso." },
+      { "id": "d", "text": "Ao número reduzido de neurônios que possui." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 27,
+    "question": "As fissuras cerebelares diferenciam-se dos sulcos por:",
+    "options": [
+      { "id": "a", "text": "Serem menos profundas e delimitarem pequenas lâminas." },
+      { "id": "b", "text": "Serem mais pronunciadas e delimitarem lóbulos cerebelares." },
+      { "id": "c", "text": "Estarem presentes apenas na substância branca." },
+      { "id": "d", "text": "Possuírem função exclusivamente vascular." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 28,
+    "question": "As lâminas do cerebelo correspondem a:",
+    "options": [
+      { "id": "a", "text": "Projeções de substância branca sem revestimento cortical." },
+      { "id": "b", "text": "Estruturas delimitadas por sulcos e revestidas pelo córtex cerebelar." },
+      { "id": "c", "text": "Núcleos profundos responsáveis por funções motoras." },
+      { "id": "d", "text": "Divisões do tronco encefálico." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 29,
+    "question": "A função de condução de impulsos do cerebelo implica:",
+    "options": [
+      { "id": "a", "text": "Transmissão de informações entre o cerebelo, encéfalo e medula espinhal." },
+      { "id": "b", "text": "Produção autônoma de impulsos motores independentes." },
+      { "id": "c", "text": "Isolamento funcional das demais estruturas encefálicas." },
+      { "id": "d", "text": "Atuação exclusiva em reflexos simples." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 30,
+    "question": "A relação do cerebelo com o tronco encefálico ocorre principalmente por meio de:",
+    "options": [
+      { "id": "a", "text": "Nervos cranianos exclusivamente." },
+      { "id": "b", "text": "Pedúnculos cerebelares que estabelecem conexões estruturais." },
+      { "id": "c", "text": "Fissuras cerebrais profundas." },
+      { "id": "d", "text": "Sistema ventricular." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 31,
+    "question": "O cerebelo contribui para o controle motor ao:",
+    "options": [
+      { "id": "a", "text": "Gerar impulsos motores primários diretamente." },
+      { "id": "b", "text": "Ajustar e refinar movimentos já iniciados por outras estruturas." },
+      { "id": "c", "text": "Controlar apenas reflexos autonômicos." },
+      { "id": "d", "text": "Atuar exclusivamente no sistema sensorial." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 32,
+    "question": "A perda de equilíbrio associada a lesões cerebelares ocorre devido:",
+    "options": [
+      { "id": "a", "text": "À falha na integração de informações sensoriais e motoras." },
+      { "id": "b", "text": "À interrupção da atividade hormonal." },
+      { "id": "c", "text": "À ausência de impulsos do córtex cerebral." },
+      { "id": "d", "text": "À degeneração exclusiva da medula espinhal." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 33,
+    "question": "A hipotonia observada em lesões cerebelares caracteriza-se por:",
+    "options": [
+      { "id": "a", "text": "Aumento do tônus muscular." },
+      { "id": "b", "text": "Diminuição do tônus muscular." },
+      { "id": "c", "text": "Rigidez muscular contínua." },
+      { "id": "d", "text": "Contrações involuntárias constantes." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 34,
+    "question": "A função do cerebelo na postura está relacionada:",
+    "options": [
+      { "id": "a", "text": "Ao controle hormonal da musculatura." },
+      { "id": "b", "text": "À regulação do tônus e equilíbrio corporal." },
+      { "id": "c", "text": "À produção de impulsos sensoriais." },
+      { "id": "d", "text": "À atividade exclusiva do sistema periférico." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 35,
+    "question": "A coordenação motora fina depende do cerebelo porque:",
+    "options": [
+      { "id": "a", "text": "Ele atua diretamente na contração muscular." },
+      { "id": "b", "text": "Ele ajusta a precisão dos movimentos voluntários." },
+      { "id": "c", "text": "Ele substitui o córtex motor." },
+      { "id": "d", "text": "Ele controla apenas reflexos." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 36,
+    "question": "A relação entre cerebelo e atenção está associada:",
+    "options": [
+      { "id": "a", "text": "À regulação hormonal do sistema nervoso." },
+      { "id": "b", "text": "À capacidade de mudanças rápidas no foco atencional." },
+      { "id": "c", "text": "À produção de memória declarativa." },
+      { "id": "d", "text": "À atividade exclusiva do sistema límbico." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 37,
+    "question": "A função integradora do cerebelo pode ser compreendida como:",
+    "options": [
+      { "id": "a", "text": "A combinação de informações sensoriais e motoras para ajuste do movimento." },
+      { "id": "b", "text": "A produção independente de impulsos motores." },
+      { "id": "c", "text": "A regulação exclusiva de funções viscerais." },
+      { "id": "d", "text": "A atuação isolada sem interação com outras estruturas." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 38,
+    "question": "O cerebelo participa da correção do movimento ao:",
+    "options": [
+      { "id": "a", "text": "Ignorar os erros motores durante a execução." },
+      { "id": "b", "text": "Comparar o movimento planejado com o executado." },
+      { "id": "c", "text": "Gerar reflexos automáticos apenas." },
+      { "id": "d", "text": "Controlar funções hormonais." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 39,
+    "question": "A degeneração do cerebelo pode resultar em:",
+    "options": [
+      { "id": "a", "text": "Melhora da coordenação motora." },
+      { "id": "b", "text": "Perda de coordenação e equilíbrio." },
+      { "id": "c", "text": "Aumento da força muscular." },
+      { "id": "d", "text": "Estabilidade postural aprimorada." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 40,
+    "question": "A função do cerebelo na marcha está relacionada:",
+    "options": [
+      { "id": "a", "text": "À regulação da pressão arterial." },
+      { "id": "b", "text": "À coordenação dos movimentos durante o caminhar." },
+      { "id": "c", "text": "À produção de energia muscular." },
+      { "id": "d", "text": "À atividade exclusiva do sistema sensorial." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 41,
+    "question": "A perda de coordenação motora associada ao cerebelo caracteriza-se por:",
+    "options": [
+      { "id": "a", "text": "Execução precisa dos movimentos." },
+      { "id": "b", "text": "Movimentos desorganizados e imprecisos." },
+      { "id": "c", "text": "Aumento da força muscular." },
+      { "id": "d", "text": "Rigidez constante." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 42,
+    "question": "A importância do cerebelo no sistema nervoso central está relacionada:",
+    "options": [
+      { "id": "a", "text": "Exclusivamente ao controle sensorial." },
+      { "id": "b", "text": "À integração motora e manutenção do equilíbrio." },
+      { "id": "c", "text": "À produção hormonal." },
+      { "id": "d", "text": "À função imunológica." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 43,
+    "question": "A função de precisão motora do cerebelo implica:",
+    "options": [
+      { "id": "a", "text": "Movimentos aleatórios sem controle." },
+      { "id": "b", "text": "Ajuste fino da execução dos movimentos." },
+      { "id": "c", "text": "Contrações musculares involuntárias." },
+      { "id": "d", "text": "Rigidez muscular constante." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 44,
+    "question": "A participação do cerebelo na aprendizagem motora envolve:",
+    "options": [
+      { "id": "a", "text": "Memorização de padrões motores e sua otimização." },
+      { "id": "b", "text": "Produção de hormônios." },
+      { "id": "c", "text": "Controle exclusivo de reflexos." },
+      { "id": "d", "text": "Independência do córtex cerebral." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 45,
+    "question": "A função do cerebelo na postura corporal depende:",
+    "options": [
+      { "id": "a", "text": "Da regulação hormonal sistêmica." },
+      { "id": "b", "text": "Da integração sensório-motora." },
+      { "id": "c", "text": "Da atividade exclusiva da medula." },
+      { "id": "d", "text": "Da produção de neurotransmissores." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 46,
+    "question": "A alteração cerebelar pode afetar a fala por meio de:",
+    "options": [
+      { "id": "a", "text": "Disartria decorrente da falta de coordenação muscular." },
+      { "id": "b", "text": "Perda de memória linguística." },
+      { "id": "c", "text": "Alteração visual." },
+      { "id": "d", "text": "Comprometimento auditivo." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 47,
+    "question": "O papel do cerebelo no sistema motor é:",
+    "options": [
+      { "id": "a", "text": "Gerar movimentos voluntários iniciais." },
+      { "id": "b", "text": "Ajustar e coordenar movimentos já iniciados." },
+      { "id": "c", "text": "Controlar apenas reflexos." },
+      { "id": "d", "text": "Regular funções viscerais." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 48,
+    "question": "A função de equilíbrio do cerebelo depende:",
+    "options": [
+      { "id": "a", "text": "Da integração entre sistemas sensoriais e motores." },
+      { "id": "b", "text": "Da produção hormonal." },
+      { "id": "c", "text": "Da atividade exclusiva do córtex." },
+      { "id": "d", "text": "Da função cardiovascular." }
+    ],
+    "correctOptionId": "a"
+  },
+  {
+    "id": 49,
+    "question": "A importância clínica do cerebelo está relacionada:",
+    "options": [
+      { "id": "a", "text": "Apenas à regulação hormonal." },
+      { "id": "b", "text": "À identificação de alterações motoras e de equilíbrio." },
+      { "id": "c", "text": "Exclusivamente à memória." },
+      { "id": "d", "text": "À função imunológica." }
+    ],
+    "correctOptionId": "b"
+  },
+  {
+    "id": 50,
+    "question": "O comprometimento do cerebelo resulta principalmente em:",
+    "options": [
+      { "id": "a", "text": "Alterações hormonais sistêmicas." },
+      { "id": "b", "text": "Déficits de coordenação, equilíbrio e precisão motora." },
+      { "id": "c", "text": "Perda de funções viscerais." },
+      { "id": "d", "text": "Comprometimento exclusivo da memória." }
     ],
     "correctOptionId": "b"
   }
